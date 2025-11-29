@@ -1,0 +1,1 @@
+While exploring anomalies across multiple universes, our scanners detected an individual in a red-and-blue suit appearing at a location tied to a 2019 multiverse breach event. Your task is to identify the entity responsible for the disruption depicted in the recovered image. Submit the name inside the flag format FORTIX{}.
